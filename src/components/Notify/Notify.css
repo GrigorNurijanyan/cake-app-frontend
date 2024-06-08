@@ -1,0 +1,31 @@
+.Toastify__toast-theme--light.Toastify__toast--error {
+  background-color: var(--toastify-color-error);
+}
+
+.Toastify__toast-theme--light.Toastify__toast--success {
+  background-color: var(--toastify-color-success);
+}
+
+.Toastify__toast-theme--light.Toastify__toast--default {
+  background-color: var(--toastify-color-dark);
+}
+
+.Toastify__toast-theme--light.Toastify__toast--warning {
+  background-color: var(--toastify-color-warning);
+}
+
+.Toastify__toast-body {
+  color: var(--toastify-color-light);
+}
+
+.Toastify__toast-icon svg {
+  fill: var(--toastify-color-light);
+}
+
+.Toastify__close-button--light.Toastify__close-button {
+  opacity: 1;
+}
+
+.Toastify__close-button svg path {
+  fill: var(--toastify-color-light);
+}
